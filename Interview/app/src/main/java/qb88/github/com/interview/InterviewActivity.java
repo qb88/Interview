@@ -23,6 +23,7 @@ public class InterviewActivity extends Activity {
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
+        //my test
         int id = item.getItemId();
         if (id == R.id.action_settings) {
             return true;
